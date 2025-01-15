@@ -2,6 +2,8 @@
 
 This repository contains the code for the course project of the ETHz Deep Learning 2024 HS. The project focuses on biology-inspired methods against catastrophic forgetting and loss of plasticity. 
 
+NOTE! Please see https://github.com/bitmorse/dl-hs24 for latest plots in /plots directory.
+
 ## TODO
 
 ### Stage 1
@@ -12,17 +14,17 @@ This repository contains the code for the course project of the ETHz Deep Learni
 - [x] Implementing GA
 - [x] Parameterize population selection in GA
 - [x] Implementing SNN
-- [ ] wrap GA with TrainingSessionInterface
-- [ ] wrap SNN with TrainingSessionInterface
+- [x] wrap GA with TrainingSessionInterface
+- [x] wrap SNN with TrainingSessionInterface
 
 
 ### Stage 2
-- [ ] Tuning hyperparameters of GA
-- [ ] Tuning hyperparameters of SNN
-- [ ] Implementing visualization of training/evolution
+- [x] Tuning hyperparameters of GA
+- [x] Tuning hyperparameters of SNN
+- [x] Implementing visualization of training/evolution
 
 ### Stage 3
-- [ ] Generalization of results over different datasets
+- [x] Generalization of results over different datasets
 
 
 ## Assumptions
